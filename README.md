@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Ankit </h1>
-<h3 align="">A passionate frontend developer with skills in HTML,CSS, Tailwind CSS,JavaScript,React.js & C/C++.</h3>
+<h3 align="">Mastering Full Stack Development step-by-step.</h3>
 
 - 🔭 I’m currently working on **Full Stack Development with MERN stack**
 
