@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Deep</h1>
+<h1 align="center">Hi 👋, I'm Ankit </h1>
 <h3 align="center">A passionate frontend developer with skills in HTML,CSS, Tailwind CSS,JavaScript,React.js & C/C++.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-deep&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-deep" /> </p>
